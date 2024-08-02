@@ -8,7 +8,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### Here is the process and project breif ###
+### Here is the process and project brief ###
 
 ## 1. Problem to solve ##
 Need to automate the warehouse team tasks for picking and packing the orders.
