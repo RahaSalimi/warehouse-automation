@@ -1,0 +1,88 @@
+[
+    {
+        "order_id": 1,
+        "order_total": 800,
+        "order_date": "2023-09-15",
+        "shipping_address": "100 Dundas Street East",
+        "customer_name": "Sam Smith",
+        "customer_email": "sam.smith@example.com",
+        "line_items": [
+            {"line_item_id": 1, "product_id": 2, "product_name": "Birthday Box", "price": 500},
+            {"line_item_id": 2, "product_id": 1, "product_name": "Valentines Box", "price": 300}
+          
+        ]
+    },
+    {
+        "order_id": 2,
+        "order_total": 300,
+        "order_date": "2023-09-15",
+        "shipping_address": "100 Queen Street West",
+        "customer_name": "Rob Smith",
+        "customer_email": "rob.smith@example.com",
+        "line_items": [
+            {"line_item_id": 1, "product_id": 1, "product_name": "Valentines Box", "price": 300}
+     
+        ]
+    },
+    {
+        "order_id": 3,
+        "order_total": 500,
+        "order_date": "2023-09-15",
+        "shipping_address": "100 King Street East",
+        "customer_name": "Dan Smith",
+        "customer_email": "dan.smith@example.com",
+        "line_items": [
+            {"line_item_id":1 , "product_id": 2, "product_name": "Birthday Box", "price": 500}
+       
+        ]
+    },
+    {
+        "order_id": 4,
+        "order_total": 525,
+        "order_date": "2023-09-16",
+        "shipping_address": "100 Albert Street West",
+        "customer_name": "John Smith",
+        "customer_email": "John.smith@example.com",
+        "line_items": [
+            {"line_item_id": 1, "product_id": 2, "product_name": "Birthday Box", "price": 200},
+            {"line_item_id": 2, "product_id": 3, "product_name": "Client Gift Box", "price": 10}
+        ]
+    },{
+        "order_id": 5,
+        "order_total": 1200,
+        "order_date": "2024-08-01", 
+        "shipping_address": "100 York Street East",
+        "customer_name": "Kevin Smith",
+        "customer_email": "kevin.smith@example.com",
+        "line_items": [
+            {"line_item_id": 1, "product_id": 2, "product_name": "Birthday Box", "price": 200},
+            {"line_item_id": 2, "product_id": 1, "product_name": "Valentines Box", "price": 300},
+            {"line_item_id": 3, "product_id": 3, "product_name": "Client Gift Box", "price": 700}
+        ]
+    }
+    ,{
+        "order_id": 6,
+        "order_total": 900,
+        "order_date": "2024-08-01", 
+        "shipping_address": "100 Metcalfe Street East",
+        "customer_name": "Shelly Smith",
+        "customer_email": "shelly.smith@example.com",
+        "line_items": [
+            {"line_item_id": 1, "product_id": 2, "product_name": "Birthday Box", "price": 200},
+            {"line_item_id": 3, "product_id": 3, "product_name": "Client Gift Box", "price": 700}
+        ]
+    }
+    ,{
+        "order_id": 7,
+        "order_total": 500,
+        "order_date": "2024-08-01", 
+        "shipping_address": "100 Spark Street East",
+        "customer_name": "Avery Smith",
+        "customer_email": "avery.smith@example.com",
+        "line_items": [
+            {"line_item_id": 1, "product_id": 2, "product_name": "Birthday Box", "price": 200},
+            {"line_item_id": 2, "product_id": 1, "product_name": "Valentines Box", "price": 300}
+           
+        ]
+    }
+]

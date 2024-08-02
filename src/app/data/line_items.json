@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "Red Roses Bouquet",
+        "description": "A bouquet of red roses",
+        "price": 20,
+        "total_stock": 50
+      },
+      {
+        "id": 2,
+        "name": "Box of chocolates",    
+        "description": "A box of chocolates",
+        "price": 10,
+        "total_stock": 100
+      },
+      {
+        "id": 3,
+        "name": "Candles",
+        "description": "A box of candles",
+        "price": 5,
+        "total_stock": 200  
+      },
+      {
+        "id": 4,        
+        "name": "Fruit basket",
+        "description": "A basket of fruit",
+        "price": 10,
+        "total_stock": 100
+      },
+      {
+        "id": 5,
+        "name": "Pen",
+        "description": "A pen", 
+        "price": 5, 
+        "total_stock": 100
+      },
+      {
+        "id": 6,
+        "name": "Women’s perfume",
+        "description": "A bottle of perfume",
+        "price": 20,
+        "total_stock": 50
+      },
+      {
+        "id": 7,
+        "name": "Bottle of wine",
+        "description": "A bottle of wine",
+        "price": 10,
+        "total_stock": 100
+      },
+      {
+        "id": 8,
+        "name": "Birthday cupcake",
+        "description": "A cupcake",
+        "price": 5,
+        "total_stock": 200
+      },
+      {
+        "id": 9,
+        "name": "Birthday Card",
+        "description": "A gift card",
+        "price":80,
+        "total_stock": 200},
+      {
+        "id": 10,
+        "name": "$100 Visa Gift Card",
+        "description": "A gift card",
+        "price": 100,
+        "total_stock": 100
+      },
+      {
+        "id": 11,
+        "name": "Love card",
+        "description": "A love card",
+        "price": 5,
+        "total_stock": 100
+      }
+]
